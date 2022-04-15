@@ -20,8 +20,8 @@ function App() {
   return (
     <div className='App'>
       <h1 className='App-header'>
-        <p style={{margin: "0px"}}>Talks & </p>
-        <p style={{margin: "0px"}}>Conferences<span className='h-small'> By Ahmed Saed</span></p>
+        <p className='App-header-text'>Talks & </p>
+        <span className='App-header-text'>Conferences </span><span className='h-small'>By Ahmed Saed</span>
       </h1>
       <div className='card-container'>
         {cards_data}
