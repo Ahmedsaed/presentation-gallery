@@ -1,6 +1,6 @@
 import "./Card.css";
 
-export default function Card({title, img, video, slides}) {
+export default function Card({title, img, video, slides, code}) {
 
 
     return (
@@ -19,6 +19,10 @@ export default function Card({title, img, video, slides}) {
                     slides && 
                     <a href={slides} target="_blank" rel="noreferrer" className="card-badge-text">Slides</a>    
                 }   
+                {
+                    code && 
+                    <a href={code} target="_blank" rel="noreferrer" className="card-badge-text">Code</a>    
+                }
             </div>
             <h2 className="card-title">{title}</h2>
         </div>

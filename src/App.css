@@ -3,8 +3,17 @@
 }
 
 .App-header {
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
   color: #FCD900;
   font-size: 50px;
+  margin-left: 30px;
+}
+
+.h-small {
+  font-size: 20px;
+  color: #E8630A;
 }
 
 .card-container {

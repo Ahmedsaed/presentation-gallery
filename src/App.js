@@ -10,6 +10,7 @@ function App() {
         title={elem.title}
         video={elem.video}
         slides={elem.slides}
+        code={elem.code}
         key={idx}
       />
     )
@@ -18,7 +19,10 @@ function App() {
 
   return (
     <div className='App'>
-      <h1 className='App-header'>Talks & Conferences</h1>
+      <h1 className='App-header'>
+        <p style={{margin: "0px"}}>Talks & </p>
+        <p style={{margin: "0px"}}>Conferences<span className='h-small'> By Ahmed Saed</span></p>
+      </h1>
       <div className='card-container'>
         {cards_data}
       </div>
