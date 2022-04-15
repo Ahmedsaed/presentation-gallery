@@ -1,0 +1,43 @@
+.card-body {
+    max-width: 300px;
+    min-height: 280px; 
+
+    background: rgba( 232, 99, 10, 0.5 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+    float: left;
+    margin: 5px 5px;
+}
+
+.card-img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-title {
+    margin: 10px;
+    font-size: 30px;
+}
+
+.card-badge {
+    position: absolute;
+    right: 5px;
+    top: 10px;
+
+    display: flex;
+}
+
+.card-badge-text {
+    background: #E8630A;
+    text-align: center;
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    margin: 0px 0px 0px 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
