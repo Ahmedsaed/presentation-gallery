@@ -13,7 +13,14 @@ const data = {
             video: "",
             slides: "",
             code: ""
-        }
+        },
+        {
+            title: "Let's get good at git",
+            img: "",
+            video: "",
+            slides: "",
+            code: ""
+        },
     ]
 }
 
