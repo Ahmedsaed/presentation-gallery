@@ -9,9 +9,9 @@ const data = {
         },
         {
             title: "Hackathon 101",
-            img: "",
+            img: "https://user-images.githubusercontent.com/37080003/163681595-5233e8d3-2123-4f69-a44a-40c43cca2e06.png",
             video: "",
-            slides: "",
+            slides: "https://docs.google.com/presentation/d/1BpB-jRLrdGsuve6K3a54tWxBR9pjWU8NW7rFcGMdgmw/edit?usp=sharing",
             code: ""
         },
         {
