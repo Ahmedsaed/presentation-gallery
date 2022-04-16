@@ -32,15 +32,11 @@
   border-radius: 10px;
   border: 1px solid rgba( 255, 255, 255, 0.18 );
 
-  /* display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
-
-  /* grid-gap: 15px; */
-  overflow: hidden;
+  display: grid;
+  grid-gap: 1rem;  
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   
-  
-  max-width: 937px;
+  max-width: 1000px;
   margin: 0px auto;
   padding: 10px;
 }
-

@@ -1,7 +1,4 @@
 .card-body {
-    max-width: 300px;
-    min-height: 280px; 
-
     background: rgba( 232, 99, 10, 0.5 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     backdrop-filter: blur( 5.5px );
@@ -9,7 +6,6 @@
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
 
-    float: left;
     margin: 5px 5px;
 }
 
