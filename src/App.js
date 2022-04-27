@@ -11,6 +11,7 @@ function App() {
         video={elem.video}
         slides={elem.slides}
         code={elem.code}
+        display={elem.display}
         key={idx}
       />
     )
