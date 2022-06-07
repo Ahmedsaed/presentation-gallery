@@ -14,15 +14,23 @@ const data = {
             video: "",
             slides: "https://docs.google.com/presentation/d/1BpB-jRLrdGsuve6K3a54tWxBR9pjWU8NW7rFcGMdgmw/edit?usp=sharing",
             code: "",
+            display: false
+        },
+        {
+            title: "Intro To GitHub",
+            img: "https://user-images.githubusercontent.com/37080003/172421840-bc67cd84-3591-4dee-88ca-7e8ab3663a15.png",
+            video: "https://youtu.be/Tc7hIkmwnko",
+            slides: "https://docs.google.com/presentation/d/1L5Ed1R_jg7-PChqRprBq5uEpgJNOrqOzBZnO-Z86WXg/edit?usp=sharing",
+            code: "https://github.com/Ahmedsaed",
             display: true
         },
         {
-            title: "Let's get good at git",
-            img: "",
+            title: "Intro To Git",
+            img: "https://user-images.githubusercontent.com/37080003/172422756-6ec7df37-c59e-4f32-bc7a-bded61119901.png",
             video: "",
-            slides: "",
+            slides: "https://docs.google.com/presentation/d/1_WHitTYovETTw-f00Fk-SE95NiSfU4jSMT6pZOKKjds/edit?usp=sharing&resourcekey=0-UqSdUESOzXb-H1P4ibvOvQ",
             code: "",
-            display: false
+            display: true
         },
     ]
 }
