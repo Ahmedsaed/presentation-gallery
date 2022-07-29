@@ -27,7 +27,7 @@ const data = {
         {
             title: "Intro To Git",
             img: "https://user-images.githubusercontent.com/37080003/172422756-6ec7df37-c59e-4f32-bc7a-bded61119901.png",
-            video: "",
+            video: "https://youtu.be/crDCgkJB3kA",
             slides: "https://docs.google.com/presentation/d/1_WHitTYovETTw-f00Fk-SE95NiSfU4jSMT6pZOKKjds/edit?usp=sharing&resourcekey=0-UqSdUESOzXb-H1P4ibvOvQ",
             code: "",
             display: true
